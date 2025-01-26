@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T20:40:39 IST" name="Suite" finished-at="2025-01-26T20:47:07 IST" duration-ms="388350">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T20:40:39 IST" name="ChromeTest" finished-at="2025-01-26T20:42:58 IST" duration-ms="138897">
+      <class name="com.AmazonTestCases.LaptopPageTestCases">
+        <test-method is-config="true" signature="openApplication(java.lang.String)[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@e4487af]" started-at="2025-01-26T20:40:39 IST" name="openApplication" finished-at="2025-01-26T20:40:54 IST" duration-ms="15083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@e4487af]" started-at="2025-01-26T20:40:54 IST" name="pageSetUp" finished-at="2025-01-26T20:41:04 IST" duration-ms="9686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyUrl()[pri:1, instance:com.AmazonTestCases.LaptopPageTestCases@e4487af]" started-at="2025-01-26T20:41:04 IST" name="verifyUrl" finished-at="2025-01-26T20:41:11 IST" duration-ms="7052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="verifyTitle()[pri:2, instance:com.AmazonTestCases.LaptopPageTestCases@e4487af]" started-at="2025-01-26T20:41:11 IST" name="verifyTitle" finished-at="2025-01-26T20:41:18 IST" duration-ms="7030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="validateElectronics()[pri:3, instance:com.AmazonTestCases.LaptopPageTestCases@e4487af]" started-at="2025-01-26T20:41:18 IST" name="validateElectronics" finished-at="2025-01-26T20:42:58 IST" duration-ms="100029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateElectronics -->
+      </class> <!-- com.AmazonTestCases.LaptopPageTestCases -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-01-26T20:42:58 IST" name="FirefoxTest" finished-at="2025-01-26T20:45:05 IST" duration-ms="127158">
+      <class name="com.AmazonTestCases.LaptopPageTestCases">
+        <test-method is-config="true" signature="openApplication(java.lang.String)[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@fd07cbb]" started-at="2025-01-26T20:42:58 IST" name="openApplication" finished-at="2025-01-26T20:43:14 IST" duration-ms="16052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@fd07cbb]" started-at="2025-01-26T20:43:14 IST" name="pageSetUp" finished-at="2025-01-26T20:43:21 IST" duration-ms="7163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyUrl()[pri:1, instance:com.AmazonTestCases.LaptopPageTestCases@fd07cbb]" started-at="2025-01-26T20:43:21 IST" name="verifyUrl" finished-at="2025-01-26T20:43:28 IST" duration-ms="7020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="verifyTitle()[pri:2, instance:com.AmazonTestCases.LaptopPageTestCases@fd07cbb]" started-at="2025-01-26T20:43:28 IST" name="verifyTitle" finished-at="2025-01-26T20:43:35 IST" duration-ms="7016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="validateElectronics()[pri:3, instance:com.AmazonTestCases.LaptopPageTestCases@fd07cbb]" started-at="2025-01-26T20:43:35 IST" name="validateElectronics" finished-at="2025-01-26T20:45:05 IST" duration-ms="89898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateElectronics -->
+      </class> <!-- com.AmazonTestCases.LaptopPageTestCases -->
+    </test> <!-- FirefoxTest -->
+    <test started-at="2025-01-26T20:45:05 IST" name="EdgeTest" finished-at="2025-01-26T20:47:07 IST" duration-ms="122281">
+      <class name="com.AmazonTestCases.LaptopPageTestCases">
+        <test-method is-config="true" signature="openApplication(java.lang.String)[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@484970b0]" started-at="2025-01-26T20:45:05 IST" name="openApplication" finished-at="2025-01-26T20:45:23 IST" duration-ms="18283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.AmazonTestCases.LaptopPageTestCases@484970b0]" started-at="2025-01-26T20:45:23 IST" name="pageSetUp" finished-at="2025-01-26T20:45:36 IST" duration-ms="12512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="verifyUrl()[pri:1, instance:com.AmazonTestCases.LaptopPageTestCases@484970b0]" started-at="2025-01-26T20:45:36 IST" name="verifyUrl" finished-at="2025-01-26T20:45:43 IST" duration-ms="7022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method signature="verifyTitle()[pri:2, instance:com.AmazonTestCases.LaptopPageTestCases@484970b0]" started-at="2025-01-26T20:45:43 IST" name="verifyTitle" finished-at="2025-01-26T20:45:50 IST" duration-ms="7016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="validateElectronics()[pri:3, instance:com.AmazonTestCases.LaptopPageTestCases@484970b0]" started-at="2025-01-26T20:45:50 IST" name="validateElectronics" finished-at="2025-01-26T20:47:07 IST" duration-ms="77445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateElectronics -->
+      </class> <!-- com.AmazonTestCases.LaptopPageTestCases -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

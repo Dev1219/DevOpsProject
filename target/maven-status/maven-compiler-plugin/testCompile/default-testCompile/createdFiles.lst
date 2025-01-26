@@ -1,0 +1,5 @@
+com\AmazonPages\HomePage.class
+com\AmazonPages\LaptopPage.class
+com\AmazonTestCases\BaseClass.class
+com\AmazonTestCases\HomePageTestCases.class
+com\AmazonTestCases\LaptopPageTestCases.class
